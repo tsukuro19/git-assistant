@@ -8,14 +8,6 @@ dotenv.config({ path: '../../.env' });
 
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
-    apiKey: "AIzaSyADKMfYLCzhQ01_Mih-BUjEYrdu0E2XlCo",
-    authDomain: "github-assistant-c05dc.firebaseapp.com",
-    projectId: "github-assistant-c05dc",
-    storageBucket: "github-assistant-c05dc.firebasestorage.app",
-    messagingSenderId: "737241227367",
-    appId: "1:737241227367:web:baf2161ecf36c3ab94b4c2"
-};
 
 
 
